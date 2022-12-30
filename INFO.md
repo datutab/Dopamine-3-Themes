@@ -3,7 +3,7 @@
 
 > Finally, i am aware that is a tutorial within the app's files that shows you how to modify a theme directly, this is just a repo for files you can manually add alongside the other themes
 
-Also keep in mind that I originally made this repository to store and share the many themes I've created for Dopamine 3, a music player thats actually quite customizable, and found that you could mess the **.theme** files, and as a web developer i thought it would be fun to make a myriad of custom themes. [^2]
+> keep in mind that I originally made this repository to store and share the many themes I've created for Dopamine 3, a music player thats actually quite customizable, and found that you could mess the **.theme** files, and as a web developer i thought it would be fun to make a myriad of custom themes. [^2]
 
 
 [^1]: In order to see the **AppData** folder, ```Show hidden files``` needs to be checked
